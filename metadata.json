@@ -1,0 +1,6 @@
+{
+  "name": "이치훈 | Wealth Builder Portfolio",
+  "description": "철도기관사이자 예비 투자자 이치훈의 자산관리 및 경제적 자유 포트폴리오. 안정적인 근로소득을 바탕으로 분산 투자와 추가 소득 파이프라인을 구축하는 여정.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
